@@ -37,6 +37,6 @@ Things you may want to cover:
       {"requestor": "123@qq.com","target": "john@qq.com"}
 * 16.You can retrieve emails that they can receive updates and is you friends for http://localhost:3000/api/v1/users/find_friend_subscribe receive json is:</br>
       {"sender": "123123@qq.com","text": "hello word john@qq.com"}
-* 11.If you have any questions, please contact me</br>
-* 12.My email is 18642844472@163.com. WeChat:18642844472. QQ:454276708. Telephone:86+411+18642844472</br>
+* 17.If you have any questions, please contact me</br>
+* 18.My email is 18642844472@163.com. WeChat:18642844472. QQ:454276708. Telephone:86+411+18642844472</br>
 Thank you for your review  I cherish this opportunity to give me a chance</br>
