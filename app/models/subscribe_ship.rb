@@ -1,0 +1,2 @@
+class SubscribeShip < ApplicationRecord
+end

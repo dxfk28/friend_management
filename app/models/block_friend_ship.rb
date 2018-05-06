@@ -1,0 +1,2 @@
+class BlockFriendShip < ApplicationRecord
+end
